@@ -1,11 +1,7 @@
-# Objetivos de la repositorio
+# Objetivos del proyecto.
 
-Este proyecto se encarga de manejar los planes de la liga de la justicia
+1. Encargase de los planes de la Liga de la Justicia.
+2. Aprender a utilizar Git-GitHub.
 
-
-## Notas
-Pueden hacer lo que quieran...
-
-### Aprendiendo a utilizar Git-GitHub
-
-##¡Hola Mundo!
+## Nota.
+Redactar de forma clara y precisa los objetivos.
